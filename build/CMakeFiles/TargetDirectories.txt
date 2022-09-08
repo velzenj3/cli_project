@@ -1,0 +1,3 @@
+/home/jeffrey/cli_project/build/CMakeFiles/rebuild_cache.dir
+/home/jeffrey/cli_project/build/CMakeFiles/edit_cache.dir
+/home/jeffrey/cli_project/build/CMakeFiles/CLIapp.dir
